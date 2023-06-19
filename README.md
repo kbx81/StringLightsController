@@ -63,9 +63,9 @@ Any real project needs an enclosure. I drew up a simple [mounting plate](StringL
 
 This is what's inside of one of these LED bulbs:
 
-[![LED bulb PCB 1](images/string_led_1_small.jpeg "LED bulb PCB 1")](images/string_led_1.jpeg)
-[![LED bulb PCB 1](images/string_led_2_small.jpeg "LED bulb PCB 1")](images/string_led_2.jpeg)
-[![LED bulb PCB 1](images/string_led_3_small.jpeg "LED bulb PCB 1")](images/string_led_3.jpeg)
+[![LED bulb PCB 1](images/string_led_1_small.jpeg "LED bulb PCB 1")](images/string_led_1.png)
+[![LED bulb PCB 1](images/string_led_2_small.jpeg "LED bulb PCB 1")](images/string_led_2.png)
+[![LED bulb PCB 1](images/string_led_3_small.jpeg "LED bulb PCB 1")](images/string_led_3.png)
 
 Where on Earth do these particular RGB LEDs come from??? I'm not aware of any sellers and a bit of searching around the 'net has revealed no sources. If you happen to know where to source these, please let me know! I'd be quite interested to pick some up to play with, especially if I could get LEDs with more than four addresses and/or get some real documentation on them.
 
